@@ -21,7 +21,6 @@
 title: blog.bneko.app
 email: go@bneko.app
 description: >- # this means to ignore newlines until "baseurl:"
-  The bneko.app blog.
   A notepad for ideas, projects, solutions and advices.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.bneko.app" # the base hostname & protocol for your site, e.g. http://example.com

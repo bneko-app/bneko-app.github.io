@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: About the author
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Luca, and I am a developer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have decided to start a blog, despite not being into these stuff, because of this thread on Twitter: [https://twitter.com/JackRhysider/status/1524416387434762241](https://twitter.com/JackRhysider/status/1524416387434762241).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I will treat this site as a notepad for ideas, projects, solutions and advices, which I think worth sharing.
+Maybe, someone will find this stuff useful, one day or another.
