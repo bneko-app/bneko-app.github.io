@@ -28,7 +28,7 @@ url: "https://blog.bneko.app" # the base hostname & protocol for your site, e.g.
 github_username:  bneko-app
 
 # Build settings
-theme: minima
+theme: midnight
 plugins:
   - jekyll-feed
 
