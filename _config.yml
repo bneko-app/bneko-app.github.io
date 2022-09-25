@@ -29,6 +29,8 @@ github_username:  bneko-app
 
 # Build settings
 theme: minima
+minima:
+  skin: bneko-dark
 plugins:
   - jekyll-feed
 

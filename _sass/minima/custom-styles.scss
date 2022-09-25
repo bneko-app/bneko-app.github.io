@@ -1,0 +1,56 @@
+.site-header {
+    border-top: 0px;
+    border-bottom: 0px;
+}
+
+.site-title {
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+
+    &:after {
+        content: '';
+        display: block;
+        height: 4px;
+        width: 140px;
+        margin: -10px auto 0 auto;
+        border-radius: 8px 0px 8px 0px;
+        background: $color-header-logo;
+    }
+}
+
+.site-nav {
+    font-weight: 100;
+
+    .page-link:hover {
+        color: $color-header-logo;
+    }
+}
+
+.post-link {
+    font-weight: 100;
+}
+
+.post-title {
+    font-weight: 100;
+    color: $color-accent-fg;
+}
+
+.svg-icon {
+    width: 10px;
+    height: 10px;
+    vertical-align: text-top;
+}
+
+.post-content {
+    p {
+        letter-spacing: .01rem;
+    }
+}
+
+a { 
+    &:hover {
+      color: $link-hover-color;
+      text-decoration: none;
+    }
+}
