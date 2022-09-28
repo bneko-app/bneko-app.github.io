@@ -4,7 +4,7 @@
 }
 
 .site-title {
-    font-weight: 900;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .05rem;
 
@@ -20,19 +20,12 @@
 }
 
 .site-nav {
-    font-weight: 100;
-
     .page-link:hover {
         color: $color-header-logo;
     }
 }
 
-.post-link {
-    font-weight: 100;
-}
-
 .post-title {
-    font-weight: 100;
     color: $color-accent-fg;
 }
 
